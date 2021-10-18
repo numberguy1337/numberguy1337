@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @numberguy1337
 - 👀 I’m interested in ... Modding
 - 🌱 I’m currently learning ... json/cs/C#
-- 💞️ I’m looking to collaborate on ... Modding Mindustry, Slay the Spire, using random art for the projects.
+- 💞️ I’m looking to collaborate on ... Modding Mindustry, json code based games.
 - 📫 How to reach me ... stab at my repository or something and leave a comment?
 
 <!---
